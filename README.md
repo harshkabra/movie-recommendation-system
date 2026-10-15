@@ -71,4 +71,4 @@ Movie-Recommendation-System/
 ├── requirements.txt
 ├── test_queries.py
 ├── test_user_based.py
-└── .gitignore
+└── .gitignore# movie-recommendation-system
